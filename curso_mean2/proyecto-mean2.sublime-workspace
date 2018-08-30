@@ -8,30 +8,30 @@
 	"buffers":
 	[
 		{
-			"file": "/E/wamp/www/curso-mean2/package.json",
+			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 558,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "'use strict'",
-			"file": "/E/wamp/www/curso-mean2/index.js",
-			"file_size": 0,
-			"file_write_time": 131801037931117673,
-			"settings":
-			{
-				"buffer_size": 12,
+				"buffer_size": 662,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "index.js",
 			"settings":
 			{
-				"buffer_size": 239,
-				"line_ending": "Unix"
+				"buffer_size": 435,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -67,11 +67,12 @@
 	},
 	"expanded_folders":
 	[
-		"/E/wamp/www/curso-mean2",
 		"/E/wamp2/www/curso_mean2"
 	],
 	"file_history":
 	[
+		"/E/wamp/www/curso-mean2/package.json",
+		"/E/wamp/www/curso-mean2/index.js",
 		"/E/wamp/www/curso-mean2/proyecto-curso-mean2.sublime-project"
 	],
 	"find":
@@ -112,26 +113,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/E/wamp/www/curso-mean2/package.json",
+					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 558,
+						"buffer_size": 662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								156,
+								161
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -142,19 +141,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/E/wamp/www/curso-mean2/index.js",
+					"file": "index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12,
+						"buffer_size": 435,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11,
-								11
+								184,
+								184
 							]
 						],
 						"settings":
@@ -170,27 +169,27 @@
 				},
 				{
 					"buffer": 2,
-					"file": "package.json",
-					"semi_transient": true,
+					"file": "app.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 239,
+						"buffer_size": 542,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								454,
+								454
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -276,7 +275,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 287.0,
+	"side_bar_width": 299.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
